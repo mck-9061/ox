@@ -1,0 +1,95 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "NoughtsAndCrosses/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/NoughtsAndCrosses.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NoughtsAndCrosses.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NoughtsAndCrosses/1.0.0": {
+      "type": "project",
+      "path": "../NoughtsAndCrosses/NoughtsAndCrosses.csproj",
+      "msbuildProject": "../NoughtsAndCrosses/NoughtsAndCrosses.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "NoughtsAndCrosses >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Nathaniel Carter\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\projects\\NoughtsAndCrosses\\NoughtsAndCrosses\\NoughtsAndCrossesGui\\NoughtsAndCrossesGui.csproj",
+      "projectName": "NoughtsAndCrossesGui",
+      "projectPath": "E:\\projects\\NoughtsAndCrosses\\NoughtsAndCrosses\\NoughtsAndCrossesGui\\NoughtsAndCrossesGui.csproj",
+      "packagesPath": "C:\\Users\\Nathaniel Carter\\.nuget\\packages\\",
+      "outputPath": "E:\\projects\\NoughtsAndCrosses\\NoughtsAndCrosses\\NoughtsAndCrossesGui\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Nathaniel Carter\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "E:\\projects\\NoughtsAndCrosses\\NoughtsAndCrosses\\NoughtsAndCrosses\\NoughtsAndCrosses.csproj": {
+              "projectPath": "E:\\projects\\NoughtsAndCrosses\\NoughtsAndCrosses\\NoughtsAndCrosses\\NoughtsAndCrosses.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

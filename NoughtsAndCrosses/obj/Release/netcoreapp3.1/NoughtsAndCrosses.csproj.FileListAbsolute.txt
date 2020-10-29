@@ -1,0 +1,13 @@
+D:\projects\NoughtsAndCrosses\NoughtsAndCrosses\NoughtsAndCrosses\bin\Release\netcoreapp3.1\NoughtsAndCrosses.exe
+D:\projects\NoughtsAndCrosses\NoughtsAndCrosses\NoughtsAndCrosses\bin\Release\netcoreapp3.1\NoughtsAndCrosses.deps.json
+D:\projects\NoughtsAndCrosses\NoughtsAndCrosses\NoughtsAndCrosses\bin\Release\netcoreapp3.1\NoughtsAndCrosses.runtimeconfig.json
+D:\projects\NoughtsAndCrosses\NoughtsAndCrosses\NoughtsAndCrosses\bin\Release\netcoreapp3.1\NoughtsAndCrosses.runtimeconfig.dev.json
+D:\projects\NoughtsAndCrosses\NoughtsAndCrosses\NoughtsAndCrosses\bin\Release\netcoreapp3.1\NoughtsAndCrosses.dll
+D:\projects\NoughtsAndCrosses\NoughtsAndCrosses\NoughtsAndCrosses\bin\Release\netcoreapp3.1\NoughtsAndCrosses.pdb
+D:\projects\NoughtsAndCrosses\NoughtsAndCrosses\NoughtsAndCrosses\obj\Release\netcoreapp3.1\NoughtsAndCrosses.csprojAssemblyReference.cache
+D:\projects\NoughtsAndCrosses\NoughtsAndCrosses\NoughtsAndCrosses\obj\Release\netcoreapp3.1\NoughtsAndCrosses.AssemblyInfoInputs.cache
+D:\projects\NoughtsAndCrosses\NoughtsAndCrosses\NoughtsAndCrosses\obj\Release\netcoreapp3.1\NoughtsAndCrosses.AssemblyInfo.cs
+D:\projects\NoughtsAndCrosses\NoughtsAndCrosses\NoughtsAndCrosses\obj\Release\netcoreapp3.1\NoughtsAndCrosses.csproj.CoreCompileInputs.cache
+D:\projects\NoughtsAndCrosses\NoughtsAndCrosses\NoughtsAndCrosses\obj\Release\netcoreapp3.1\NoughtsAndCrosses.dll
+D:\projects\NoughtsAndCrosses\NoughtsAndCrosses\NoughtsAndCrosses\obj\Release\netcoreapp3.1\NoughtsAndCrosses.pdb
+D:\projects\NoughtsAndCrosses\NoughtsAndCrosses\NoughtsAndCrosses\obj\Release\netcoreapp3.1\NoughtsAndCrosses.genruntimeconfig.cache
