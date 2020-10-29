@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.30225.117
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NoughtsAndCrosses", "NoughtsAndCrosses\NoughtsAndCrosses.csproj", "{934CC066-F7CA-4A95-A2EF-A988542C43B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoughtsAndCrossesGui", "NoughtsAndCrossesGui\NoughtsAndCrossesGui.csproj", "{B33C1FEB-E993-42D2-AAE7-AE3CF15DBB98}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NoughtsAndCrossesGui", "NoughtsAndCrossesGui\NoughtsAndCrossesGui.csproj", "{B33C1FEB-E993-42D2-AAE7-AE3CF15DBB98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Connect4", "Connect4\Connect4.csproj", "{EAD85E45-3719-4AB2-9C57-395BBDCF1EA4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{B33C1FEB-E993-42D2-AAE7-AE3CF15DBB98}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B33C1FEB-E993-42D2-AAE7-AE3CF15DBB98}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B33C1FEB-E993-42D2-AAE7-AE3CF15DBB98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAD85E45-3719-4AB2-9C57-395BBDCF1EA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAD85E45-3719-4AB2-9C57-395BBDCF1EA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAD85E45-3719-4AB2-9C57-395BBDCF1EA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAD85E45-3719-4AB2-9C57-395BBDCF1EA4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
