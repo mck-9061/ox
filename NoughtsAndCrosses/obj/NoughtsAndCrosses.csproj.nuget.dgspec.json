@@ -1,24 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "E:\\projects\\NoughtsAndCrosses\\NoughtsAndCrosses\\NoughtsAndCrosses\\NoughtsAndCrosses.csproj": {}
+    "D:\\projects\\NoughtsAndCrosses\\NoughtsAndCrosses\\NoughtsAndCrosses\\NoughtsAndCrosses.csproj": {}
   },
   "projects": {
-    "E:\\projects\\NoughtsAndCrosses\\NoughtsAndCrosses\\NoughtsAndCrosses\\NoughtsAndCrosses.csproj": {
+    "D:\\projects\\NoughtsAndCrosses\\NoughtsAndCrosses\\NoughtsAndCrosses\\NoughtsAndCrosses.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\projects\\NoughtsAndCrosses\\NoughtsAndCrosses\\NoughtsAndCrosses\\NoughtsAndCrosses.csproj",
+        "projectUniqueName": "D:\\projects\\NoughtsAndCrosses\\NoughtsAndCrosses\\NoughtsAndCrosses\\NoughtsAndCrosses.csproj",
         "projectName": "NoughtsAndCrosses",
-        "projectPath": "E:\\projects\\NoughtsAndCrosses\\NoughtsAndCrosses\\NoughtsAndCrosses\\NoughtsAndCrosses.csproj",
-        "packagesPath": "C:\\Users\\Nathaniel Carter\\.nuget\\packages\\",
-        "outputPath": "E:\\projects\\NoughtsAndCrosses\\NoughtsAndCrosses\\NoughtsAndCrosses\\obj\\",
+        "projectPath": "D:\\projects\\NoughtsAndCrosses\\NoughtsAndCrosses\\NoughtsAndCrosses\\NoughtsAndCrosses.csproj",
+        "packagesPath": "C:\\Users\\20228788\\.nuget\\packages\\",
+        "outputPath": "D:\\projects\\NoughtsAndCrosses\\NoughtsAndCrosses\\NoughtsAndCrosses\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Nathaniel Carter\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\20228788\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -55,7 +56,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

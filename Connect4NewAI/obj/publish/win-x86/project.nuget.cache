@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "bf/IaISt7hLMoN7VLtB/r2Ag9HMuwN2JyfWd3qBVkecRlC2vy7bJCF5nZ3Tp8r5R6sKXdc3/7h5XYs9f5/9nCg==",
+  "success": true,
+  "projectFilePath": "E:\\projects\\NoughtsAndCrosses\\NoughtsAndCrosses\\Connect4Fixed\\Connect4Fixed.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nathaniel Carter\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\3.1.9\\microsoft.netcore.app.runtime.win-x86.3.1.9.nupkg.sha512",
+    "C:\\Users\\Nathaniel Carter\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\3.1.9\\microsoft.windowsdesktop.app.runtime.win-x86.3.1.9.nupkg.sha512",
+    "C:\\Users\\Nathaniel Carter\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\3.1.9\\microsoft.aspnetcore.app.runtime.win-x86.3.1.9.nupkg.sha512"
+  ],
+  "logs": []
+}

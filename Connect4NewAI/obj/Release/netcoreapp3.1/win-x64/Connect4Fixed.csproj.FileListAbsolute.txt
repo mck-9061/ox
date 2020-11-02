@@ -1,0 +1,1 @@
+E:\projects\NoughtsAndCrosses\NoughtsAndCrosses\Connect4Fixed\obj\Release\netcoreapp3.1\win-x64\Connect4Fixed.csprojAssemblyReference.cache
